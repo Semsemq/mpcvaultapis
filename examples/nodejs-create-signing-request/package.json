@@ -13,6 +13,6 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "grpc": "^1.24.11",
-    "protobufjs": "^7.2.6"
+    "protobufjs": "^7.5.3"
   }
 }
