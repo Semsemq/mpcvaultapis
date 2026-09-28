@@ -45,7 +45,7 @@ six==1.16.0
 snowballstemmer==2.2.0
 toml==0.10.2
 tomlkit==0.11.6
-ujson==5.7.0
+ujson==5.13.0
 urllib3==2.5.0
 websocket-client==1.5.2
 whatthepatch==1.0.4
